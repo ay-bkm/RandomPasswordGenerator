@@ -42,11 +42,9 @@ To run the Random Password Generator locally, follow these steps:
 ## Usage
 
 1. Open the Random Password Generator in your web browser.
-2. Set the desired password length using the range slider or input field.
-3. Choose the character sets to include or exclude in the generated passwords using the checkboxes.
-4. Click the "Generate Password" button to generate a random password based on your preferences.
-5. The generated password will be displayed in the password field.
-6. You can copy the password to your clipboard by clicking the "Copy" button.
+2. Click the "Generate Password" button to generate a random password.
+3. The generated password will be displayed in the password field.
+4. You can copy the password to your clipboard by clicking in the password generated.
 
 ## Contributing
 
